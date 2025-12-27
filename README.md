@@ -9,8 +9,6 @@
 * **Focus:** Reverse Engineering, Malware Analysis, Low-Level System Programming
 
 ### ⚡ Engineering Philosophy
-> **"Beyond the Decompiler"**
->
 > 저는 편리한 도구(Hex-Rays 등)에 의존하는 것을 지양합니다.
 > **Raw Assembly**를 직접 독해하고, 메모리와 레지스터의 흐름을 추적하여 로직을 재구성(Reconstruction)하는 **Deep-Dive Analysis**를 지향합니다.
 
