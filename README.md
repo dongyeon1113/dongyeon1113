@@ -1,7 +1,7 @@
 # Hi there, I'm Dong-yeon Kang 👋
 
 **Security Researcher & Reverse Engineer** based in South Korea.
-현재 **성균관대학교 소프트웨어학과**에 재학 중이며, **대한민국 육군 정보보호병(CERT)**으로 복무하며 실전 보안 역량을 쌓았습니다.
+현재 **성균관대학교 소프트웨어학과**에 재학 중이며, 대한민국 육군 정보보호병으로 복무하며 실전 보안 역량을 쌓았습니다.
 
 ### 🛡️ Identity
 * **Education:** Sungkyunkwan Univ. (SKKU), Dept. of Software
