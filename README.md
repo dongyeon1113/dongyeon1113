@@ -1,22 +1,29 @@
-# Hi , I'm Dong-yeon Kang 
+# Hi, I'm Dong-yeon Kang 
 
-**Security Researcher & Reverse Engineer** based in South Korea.
+**Security Enthusiast & Aspiring Researcher** 
 
-###  Identity
-* **Education:** Sungkyunkwan Univ. (SKKU), Dept. of Software
-* **Experience:** ROK Army Information Security Squad (CERT) - *Vulnerability Analysis & Response*
-* **Focus:** Reverse Engineering, Malware Analysis, Low-Level System Programming
+---
 
-###  Engineering Philosophy
-> 저는 편리한 도구(Hex-Rays 등)에 의존하는 것을 지양합니다.
-> **Raw Assembly**를 직접 독해하고, 메모리와 레지스터의 흐름을 추적하여 로직을 재구성(Reconstruction)하는 **Deep-Dive Analysis**를 지향합니다.
+###  Research Interests
+* **Reverse Engineering:** 정적/동적 분석을 통한 바이너리 로직 복원
+* **Malware Analysis:** 악성코드 행위 패턴 분석 및 탐지 기법 연구
 
-###  Featured Work
-저의 리버싱 철학이 담긴 실제 코드 분석 기록입니다.
-* [📂 **Dreamhack Wargame Write-ups**](https://github.com/dongyeon1113/Dreamhack-Wargame)
-    * *Pure Assembly Analysis & C Code Reconstruction*
-    * 디컴파일러 없이 기계어 논리를 100% 수동으로 복원한 문제 풀이 아카이브
+###  Experience & Background
+* **Education:** 성균관대학교(SKKU) 소프트웨어학과 재학
+* **Military Service:** 육군 정보보호병(CERT) 복무
+    * UTM, NAC, TMS 등 보안 장비를 운용하며 실시간 모니터링 수행
 
+###  My Approach: Back to the Basics
+
+* **Raw Assembly Analysis:** 디컴파일러 결과에 의존하기보다 직접 어셈블리를 독해하며 메모리와 레지스터의 흐름을 추적합니다.
+* **C Reconstruction:** 기계어 논리를 바탕으로 원본 C 코드를 직접 복원해보며 프로그램의 본질적인 로직을 파악하는 것을 중점적으로 하고있습니다.
+
+### 📂 Featured Work
+* [**Dreamhack Wargame Write-ups**](https://github.com/dongyeon1113/Dreamhack-Wargame)
+    * **Pure Assembly Analysis:** 디컴파일러 도움 없이 어셈블리만으로 로직을 수동 복원한 분석 기록입니다(레벨3부터는 디컴파일러 사용하고 있습니다).
+    
+---
+**Contact:** dongyun9501@g.skku.edu
 ---
 <div align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
