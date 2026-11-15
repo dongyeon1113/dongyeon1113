@@ -1,6 +1,6 @@
 ### Hi, I'm Dongyeon
 
-Student at **Sungkyunkwan University**, based in **Abu Dhabi**.
+Student at **Sungkyunkwan University**
 I build **Dodori** with the [Re-Melody](https://github.com/Re-Melody) team, and I'm interested in **AI** and **security**.
 
 #### Now
